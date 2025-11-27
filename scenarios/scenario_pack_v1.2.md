@@ -1,9 +1,4 @@
 
----
-
-### `scenario_pack_v1.2.md`
-
-This is the scenario file I already drafted for you, bundled cleanly:
 
 ```markdown
 # Crisis Orchestrator – Scenario Pack v1.2
