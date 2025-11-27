@@ -30,6 +30,8 @@ This project aims to:
 Key components:
 
 spec/crisis_orchestrator_v1.2_spec.md
+
+
 The main specification:
 
 World model and core modules (evacuation, medical, logistics, nuclear, cyber, information integrity)
@@ -44,7 +46,10 @@ Formal optimization sketches (medical resource allocation, evacuation routing)
 
 Robustness, compliance, and audit model
 
+
 scenarios/scenario_pack_v1.2.md
+
+
 Scenario cards used to exercise the spec:
 
 9.1 The Bridge Dilemma – Bridge A-12 evacuation route
@@ -58,9 +63,11 @@ Scenario cards used to exercise the spec:
 9.5 Nuclear Region 7 – Protective Actions
 
 prompts/answer_format_template.md (optional but recommended)
+
 A suggested output structure for models (world state → options → scoring → recommendation → human-facing brief).
 
 eval/manual_rubric.md (optional but recommended)
+
 A manual scoring rubric for judging how well a model:
 
 Follows the spec
