@@ -27,21 +27,6 @@ This project aims to:
 
 ---
 
-## Repository Structure
-
-Suggested layout (you can adjust as needed):
-
-```text
-crisis-orchestrator/
-  README.md
-  spec/
-    crisis_orchestrator_v1.2_spec.md
-  scenarios/
-    scenario_pack_v1.2.md
-  prompts/
-    answer_format_template.md        # (optional) A standard output format for models
-  eval/
-    manual_rubric.md                 # (optional) Notes on how you score responses
 
 
 ## License
