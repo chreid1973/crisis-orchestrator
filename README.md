@@ -42,3 +42,9 @@ crisis-orchestrator/
     answer_format_template.md        # (optional) A standard output format for models
   eval/
     manual_rubric.md                 # (optional) Notes on how you score responses
+
+
+## License
+
+This repository is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
